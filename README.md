@@ -1,0 +1,1 @@
+This project demonstrates how to create and manage cloud infrastructure using Terraform. The setup includes a VPC, deployment of two applications in separate availability zones, and a load balancer to ensure traffic is evenly distributed across the application instances.
